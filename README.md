@@ -55,3 +55,7 @@ Feel free to connect with me if you have any questions or collaboration ideas:<b
 
 📧 Email: blazerx.matrix@gmail.com<br>
 🌐 Location: Dhanbad, Jharkhand, India
+
+# UI
+<img width="641" alt="image" src="https://github.com/user-attachments/assets/a61eeda5-00ad-4061-b18a-7299e519fa3f">
+
